@@ -15,4 +15,4 @@ Deixo aqui meus agradecimentos à **Thamirys Gameiro (Microsoft MVP)** e ao **An
 
 ---
 
-IMAGENS...
+![Palestrando](img/IMG-20230415-WA0065.jpg)
