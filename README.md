@@ -3,6 +3,8 @@ Informações (dados gerais + prints) + slides sobre a apresentação que realiz
 
 Título da Apresentação: **Kubernetes e Escalabilidade - criando aplicações para processar milhares (ou milhões) de acessos simultâneos!**
 
+Repositório utilizado na apresentação: [**KEDA + RabbitMQ**](https://github.com/renatogroffe/Kubernetes-KEDA-RabbitMQ-DotNet7-Sql-AppInsights_ContagemAcessos)
+
 Tecnologias utilizadas: **Kubernetes, Azure Kubernetes Service, KEDA, Docker, Docker Hub, RabbitMQ, .NET 7, ASP.NET Core, k9s, Application Insights**
 
 Número de participantes: **15 pessoas**
